@@ -1,3 +1,23 @@
 <resources>
     <string name="app_name">DrWebTestTask</string>
+
+    <string name="retry">Retry</string>
+    <string name="back">Back</string>
+    <string name="unknown">unknown</string>
+
+    <string name="app_list_title">Installed apps</string>
+    <string name="app_list_error">Failed to load installed apps</string>
+
+    <string name="app_details_title">App info</string>
+    <string name="app_details_error">Failed to load app info. The app may have been uninstalled.</string>
+    <string name="app_details_name">Name</string>
+    <string name="app_details_version">Version</string>
+    <string name="app_details_version_value">%1$s (%2$d)</string>
+    <string name="app_details_package">Package name</string>
+    <string name="app_details_checksum">APK checksum (SHA-256)</string>
+    <string name="app_details_checksum_calculating">Calculating…</string>
+    <string name="app_details_checksum_failed">Failed to calculate</string>
+    <string name="app_details_open">Open app</string>
+    <string name="app_details_not_launchable">App can\'t be opened</string>
+    <string name="app_details_launch_error">Failed to open the app</string>
 </resources>
